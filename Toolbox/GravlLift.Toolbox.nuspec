@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>GravlLift.Toolbox</id>
+    <version>0.0.1</version>
+    <title>GravlLift.Toolbox</title>
+    <authors>GravlLift</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/GravlLift/Toolbox</projectUrl>
+    <description>A collection of utility classes for the GravlLift projects.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <tags>Utility</tags>
+  </metadata>
+</package>
